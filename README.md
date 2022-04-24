@@ -1,16 +1,13 @@
-# relapse
+# 熱を忘れないサービス
 
-A new Flutter project.
+皆さん、熱を持っていますか？
+お風呂場や歯磨き中、「よし！やってやるぞ！」と言う気分になって部屋に戻るとすっかり忘れていることありませんか？
+その熱を忘れないように保存する
 
-## Getting Started
+そんなサービス
 
-This project is a starting point for a Flutter application.
+### 例えばこのサービスも熱を忘れてるかも
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>アイデア
+>・写真を登録してPUSH通知で見せる
+>→目標となるものの写真を見るとやろうと思っていた過去を思い出す
